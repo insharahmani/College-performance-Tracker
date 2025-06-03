@@ -1,4 +1,4 @@
-# Colleage Management Dashboard 📚 | Excel + Power BI
+# Colleage Performance Dashboard 📚 | Excel + Power BI
 
 A dynamic and fully interactive **Power BI dashboard project** designed to manage and monitor **student and teacher data** within a educational institution. From attendance tracking to fee management and payroll visualization, this dashboard provides a centralized and intelligent view of school operations.
 
